@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 Introduction
 
-<!--
-**rucasca/rucasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! "I am a data science Master's student 🎓 with a keen interest in finance 💰 and quantitative analysis 📊. Furthermore, I have  prior experience as a backend developer 👨‍💻, I also have a keen interest in artificial intelligence 🤖.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me on Social Media
+🌐 [LinkedIn](https://www.linkedin.com/in/ruben-castillo-carrasco/) | ✉️ [Email](rubencastillok@gmail.com) 
+
+## 🧰 &nbsp;My toolbox
+
+<img  src="./assets/Python.png" alt="Python" width="50" height="50"/> &nbsp;<img  src="./assets/Cpp.png" alt="C++" width="50" height="50"/> &nbsp;<img  src="./assets/java.jpg" alt="Java" width="50" height="50"/> &nbsp;<img  src="./assets/sql.png" alt="SQL" width="50" height="50"/> &nbsp;<img  src="./assets/linux.png" alt="Linux" width="50" height="50"/> &nbsp;<img  src="./assets/azure.png" alt="Azure" width="50" height="50"/> &nbsp;
+
+## 💻 Open Source Work Stats
+
+![rucasca's Github stats](https://github-readme-stats.vercel.app/api?username=rucasca&show_icons=true)
+
