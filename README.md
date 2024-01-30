@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi there, I'm **Rubén Castillo**, a data science Master's student 🎓 with a keen interest in finance 💰 and `quantitative analysis` 📊. Furthermore, I have  prior experience as a backend developer 👨‍💻. I also have a keen interest in artificial intelligence and machine learning models 🤖. Feel free to contact me anytime! 
+Hi there, I'm **Rubén Castillo**, a data science Master's student 🎓 with a keen interest in finance 💰 and `quantitative analysis` 📊. Furthermore, I have  prior experience as a backend developer 👨‍💻 and I also have a keen interest in artificial intelligence and machine learning models 🤖. Feel free to contact me anytime! 
 
 &nbsp;
 
