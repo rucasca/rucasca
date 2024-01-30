@@ -15,7 +15,7 @@ Hi there, I'm **Rubén Castillo**, a data science Master's student 🎓 with a k
 
 ## 🧰 &nbsp;My toolbox
 
-<img  src="./assets/Python.png" alt="Python" width="50" height="50"/> &nbsp;<img  src="./assets/Cpp.png" alt="C++" width="50" height="50"/> &nbsp;<img  src="./assets/java.jpg" alt="Java" width="80" height="50"/> &nbsp;<img  src="./assets/R.jpg" alt="R" width="50" height="50"/> &nbsp;<img  src="./assets/sql.png" alt="SQL" width="50" height="50"/> &nbsp;<img  src="./assets/linux.png" alt="Linux" width="50" height="50"/> &nbsp;<img  src="./assets/azure.png" alt="Azure" width="50" height="50"/> &nbsp;<img  src="./assets/mongodb.png" alt="Mongo" width="50" height="50"/> &nbsp;<img  src="./assets/cassandra.png" alt="Cassandra" width="50" height="50"/> &nbsp;
+<img  src="./assets/Python.png" alt="Python" width="80" height="80"/> &nbsp;<img  src="./assets/Cpp.png" alt="C++" width="80" height="80"/> &nbsp;<img  src="./assets/java.jpg" alt="Java" width="100" height="80"/> &nbsp;<img  src="./assets/R.jpg" alt="R" width="80" height="80"/> &nbsp;<img  src="./assets/sql.png" alt="SQL" width="80" height="80"/> &nbsp;<img  src="./assets/linux.png" alt="Linux" width="80" height="80"/> &nbsp;<img  src="./assets/azure.png" alt="Azure" width="80" height="80"/> &nbsp;<img  src="./assets/mongodb.png" alt="Mongo" width="80" height="80"/> &nbsp;<img  src="./assets/cassandra.png" alt="Cassandra" width="80" height="80"/> &nbsp;
 
 
 &nbsp;
